@@ -1,0 +1,949 @@
+[
+  {
+    "id": "ssc-cgl-2026-result",
+    "examSlug": "ssc-cgl",
+    "examName": "SSC CGL (Combined Graduate Level) Examination",
+    "shortName": "SSC CGL",
+    "conductingBody": "SSC",
+    "category": "ssc",
+    "resultStatus": "declared",
+    "resultDate": "2026-02-15",
+    "resultUrl": "https://ssc.gov.in/portal/ResultPost",
+    "scoreCardUrl": "https://ssc.gov.in/portal/ScoreCard",
+    "answerKeyUrl": "https://ssc.gov.in/portal/AnswerKey",
+    "cutOffUrl": "https://ssc.gov.in/portal/CutOff",
+    "meritListUrl": "https://ssc.gov.in/portal/MeritList",
+    "officialWebsite": "https://ssc.gov.in",
+    "year": 2026,
+    "session": "Tier-I 2025-26",
+    "howToCheck": [
+      "Visit the official SSC website at ssc.gov.in",
+      "Click on 'Result' section in the navigation menu",
+      "Select 'CGL' from the exam list",
+      "Enter your Registration Number and Date of Birth",
+      "Click 'Submit' to view your result",
+      "Download and save the result for future reference"
+    ],
+    "requiredDetails": ["Registration Number", "Date of Birth", "Captcha"],
+    "highlights": [
+      "Total 1,50,000+ candidates qualified for Tier-II",
+      "Cut-off marks for General category: 142.50",
+      "Result declared for all regions simultaneously",
+      "Score card available with section-wise marks"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "Tier-I 2025-26",
+      "categories": [
+        { "category": "General", "cutoff": 142.50, "maxMarks": 200 },
+        { "category": "OBC", "cutoff": 130.25, "maxMarks": 200 },
+        { "category": "SC", "cutoff": 120.00, "maxMarks": 200 },
+        { "category": "ST", "cutoff": 110.50, "maxMarks": 200 },
+        { "category": "EWS", "cutoff": 135.00, "maxMarks": 200 },
+        { "category": "PwD", "cutoff": 100.00, "maxMarks": 200 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "Tier-I 2024-25", "generalCutoff": 140.25, "totalQualified": 145000, "resultDate": "2025-03-10" },
+      { "year": 2024, "session": "Tier-I 2023-24", "generalCutoff": 137.50, "totalQualified": 138000, "resultDate": "2024-02-28" },
+      { "year": 2023, "session": "Tier-I 2022-23", "generalCutoff": 135.00, "totalQualified": 130000, "resultDate": "2023-04-02" }
+    ],
+    "importantLinks": [
+      { "label": "Check Tier-I Result", "url": "https://ssc.gov.in/portal/ResultPost", "type": "result" },
+      { "label": "Download Score Card", "url": "https://ssc.gov.in/portal/ScoreCard", "type": "scorecard" },
+      { "label": "View Answer Key", "url": "https://ssc.gov.in/portal/AnswerKey", "type": "answerkey" },
+      { "label": "Cut-Off Marks PDF", "url": "https://ssc.gov.in/portal/CutOff", "type": "cutoff" },
+      { "label": "Official Notification", "url": "https://ssc.gov.in/portal/Notification", "type": "notification" }
+    ],
+    "nextStage": "Tier-II examination scheduled for June 2026",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "id": "ssc-chsl-2026-result",
+    "examSlug": "ssc-chsl",
+    "examName": "SSC CHSL (Combined Higher Secondary Level) Examination",
+    "shortName": "SSC CHSL",
+    "conductingBody": "SSC",
+    "category": "ssc",
+    "resultStatus": "awaited",
+    "resultDate": "2026-04-15",
+    "resultUrl": "https://ssc.gov.in/portal/ResultPost",
+    "scoreCardUrl": null,
+    "answerKeyUrl": "https://ssc.gov.in/portal/AnswerKey",
+    "cutOffUrl": null,
+    "meritListUrl": null,
+    "officialWebsite": "https://ssc.gov.in",
+    "year": 2026,
+    "session": "Tier-I 2025-26",
+    "howToCheck": [
+      "Visit the official SSC website at ssc.gov.in",
+      "Navigate to the 'Result' tab",
+      "Select 'CHSL' exam from the dropdown",
+      "Enter your Registration Number and Date of Birth",
+      "Solve the CAPTCHA and click 'Submit'",
+      "Your result will be displayed on screen"
+    ],
+    "requiredDetails": ["Registration Number", "Date of Birth", "Captcha"],
+    "highlights": [
+      "Result expected by April 2026",
+      "Answer key already released",
+      "Approximately 40 lakh candidates appeared"
+    ],
+    "cutOff": null,
+    "previousResults": [
+      { "year": 2025, "session": "Tier-I 2024-25", "generalCutoff": 180.50, "totalQualified": 95000, "resultDate": "2025-04-20" },
+      { "year": 2024, "session": "Tier-I 2023-24", "generalCutoff": 178.25, "totalQualified": 90000, "resultDate": "2024-05-15" },
+      { "year": 2023, "session": "Tier-I 2022-23", "generalCutoff": 175.00, "totalQualified": 85000, "resultDate": "2023-06-10" }
+    ],
+    "importantLinks": [
+      { "label": "Check Result (When Available)", "url": "https://ssc.gov.in/portal/ResultPost", "type": "result" },
+      { "label": "View Answer Key", "url": "https://ssc.gov.in/portal/AnswerKey", "type": "answerkey" },
+      { "label": "Official Notification", "url": "https://ssc.gov.in/portal/Notification", "type": "notification" }
+    ],
+    "nextStage": "Result awaited. Tier-II dates to be announced after Tier-I result.",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "id": "ssc-mts-2026-result",
+    "examSlug": "ssc-mts",
+    "examName": "SSC MTS (Multi Tasking Staff) Examination",
+    "shortName": "SSC MTS",
+    "conductingBody": "SSC",
+    "category": "ssc",
+    "resultStatus": "declared",
+    "resultDate": "2026-01-20",
+    "resultUrl": "https://ssc.gov.in/portal/ResultPost",
+    "scoreCardUrl": "https://ssc.gov.in/portal/ScoreCard",
+    "answerKeyUrl": "https://ssc.gov.in/portal/AnswerKey",
+    "cutOffUrl": "https://ssc.gov.in/portal/CutOff",
+    "meritListUrl": null,
+    "officialWebsite": "https://ssc.gov.in",
+    "year": 2026,
+    "session": "CBT 2025-26",
+    "howToCheck": [
+      "Go to ssc.gov.in official website",
+      "Click on 'Result' section",
+      "Select 'MTS' from the exam list",
+      "Enter Registration Number and Date of Birth",
+      "Complete the captcha verification",
+      "Click 'Submit' to check your result"
+    ],
+    "requiredDetails": ["Registration Number", "Date of Birth", "Captcha"],
+    "highlights": [
+      "Final result declared with merit list",
+      "27,000+ vacancies filled across India",
+      "DV schedule released for all regions"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "CBT 2025-26",
+      "categories": [
+        { "category": "General", "cutoff": 115.00, "maxMarks": 150 },
+        { "category": "OBC", "cutoff": 105.50, "maxMarks": 150 },
+        { "category": "SC", "cutoff": 95.00, "maxMarks": 150 },
+        { "category": "ST", "cutoff": 85.00, "maxMarks": 150 },
+        { "category": "EWS", "cutoff": 108.00, "maxMarks": 150 },
+        { "category": "PwD", "cutoff": 75.00, "maxMarks": 150 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "CBT 2024-25", "generalCutoff": 112.50, "totalQualified": 50000, "resultDate": "2025-02-15" },
+      { "year": 2024, "session": "CBT 2023-24", "generalCutoff": 110.00, "totalQualified": 45000, "resultDate": "2024-03-20" }
+    ],
+    "importantLinks": [
+      { "label": "Check CBT Result", "url": "https://ssc.gov.in/portal/ResultPost", "type": "result" },
+      { "label": "Download Score Card", "url": "https://ssc.gov.in/portal/ScoreCard", "type": "scorecard" },
+      { "label": "View Cut-Off Marks", "url": "https://ssc.gov.in/portal/CutOff", "type": "cutoff" },
+      { "label": "DV Schedule", "url": "https://ssc.gov.in/portal/Notification", "type": "notification" }
+    ],
+    "nextStage": "Document Verification in progress across all regions",
+    "lastUpdated": "2026-03-05"
+  },
+  {
+    "id": "ssc-gd-2026-result",
+    "examSlug": "ssc-gd",
+    "examName": "SSC GD Constable Examination",
+    "shortName": "SSC GD",
+    "conductingBody": "SSC",
+    "category": "ssc",
+    "resultStatus": "declared",
+    "resultDate": "2026-02-28",
+    "resultUrl": "https://ssc.gov.in/portal/ResultPost",
+    "scoreCardUrl": "https://ssc.gov.in/portal/ScoreCard",
+    "answerKeyUrl": "https://ssc.gov.in/portal/AnswerKey",
+    "cutOffUrl": "https://ssc.gov.in/portal/CutOff",
+    "meritListUrl": null,
+    "officialWebsite": "https://ssc.gov.in",
+    "year": 2026,
+    "session": "CBT 2025-26",
+    "howToCheck": [
+      "Visit ssc.gov.in",
+      "Go to 'Result' section",
+      "Select 'GD Constable' examination",
+      "Enter your Registration Number and DOB",
+      "Submit and view your result",
+      "Save or print for PET/PST round"
+    ],
+    "requiredDetails": ["Registration Number", "Date of Birth"],
+    "highlights": [
+      "CBT result declared for 26,146 vacancies",
+      "Over 50 lakh candidates appeared",
+      "PET/PST schedule announced"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "CBT 2025-26",
+      "categories": [
+        { "category": "General (Male)", "cutoff": 135.00, "maxMarks": 160 },
+        { "category": "General (Female)", "cutoff": 125.00, "maxMarks": 160 },
+        { "category": "OBC (Male)", "cutoff": 120.00, "maxMarks": 160 },
+        { "category": "SC (Male)", "cutoff": 110.00, "maxMarks": 160 },
+        { "category": "ST (Male)", "cutoff": 100.00, "maxMarks": 160 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "CBT 2024-25", "generalCutoff": 132.00, "totalQualified": 320000, "resultDate": "2025-03-15" },
+      { "year": 2024, "session": "CBT 2023-24", "generalCutoff": 128.50, "totalQualified": 300000, "resultDate": "2024-04-10" }
+    ],
+    "importantLinks": [
+      { "label": "Check CBT Result", "url": "https://ssc.gov.in/portal/ResultPost", "type": "result" },
+      { "label": "Download Score Card", "url": "https://ssc.gov.in/portal/ScoreCard", "type": "scorecard" },
+      { "label": "PET/PST Schedule", "url": "https://ssc.gov.in/portal/Notification", "type": "notification" },
+      { "label": "Cut-Off Marks", "url": "https://ssc.gov.in/portal/CutOff", "type": "cutoff" }
+    ],
+    "nextStage": "PET/PST round starting April 2026",
+    "lastUpdated": "2026-03-08"
+  },
+  {
+    "id": "neet-ug-2026-result",
+    "examSlug": "neet-ug",
+    "examName": "NEET UG (National Eligibility cum Entrance Test)",
+    "shortName": "NEET UG",
+    "conductingBody": "NTA",
+    "category": "teaching",
+    "resultStatus": "upcoming",
+    "resultDate": "2026-06-15",
+    "resultUrl": "https://neet.nta.nic.in/",
+    "scoreCardUrl": "https://neet.nta.nic.in/",
+    "answerKeyUrl": "https://neet.nta.nic.in/",
+    "cutOffUrl": null,
+    "meritListUrl": null,
+    "officialWebsite": "https://neet.nta.nic.in",
+    "year": 2026,
+    "session": "NEET UG 2026",
+    "howToCheck": [
+      "Visit neet.nta.nic.in official website",
+      "Click on 'NEET UG 2026 Result' link",
+      "Login with Application Number and Date of Birth",
+      "Enter Security Pin shown on screen",
+      "Click 'Submit' to view your scorecard",
+      "Download the scorecard in PDF format"
+    ],
+    "requiredDetails": ["Application Number", "Date of Birth", "Security Pin"],
+    "highlights": [
+      "Exam scheduled for May 2026",
+      "Result expected by mid-June 2026",
+      "Over 24 lakh registrations received",
+      "OMR-based exam across 500+ cities"
+    ],
+    "cutOff": null,
+    "previousResults": [
+      { "year": 2025, "session": "NEET UG 2025", "generalCutoff": 720, "totalQualified": 1100000, "resultDate": "2025-06-14" },
+      { "year": 2024, "session": "NEET UG 2024", "generalCutoff": 720, "totalQualified": 1050000, "resultDate": "2024-06-04" },
+      { "year": 2023, "session": "NEET UG 2023", "generalCutoff": 720, "totalQualified": 1000000, "resultDate": "2023-06-13" }
+    ],
+    "importantLinks": [
+      { "label": "NEET UG Official Portal", "url": "https://neet.nta.nic.in/", "type": "result" },
+      { "label": "NTA Official Website", "url": "https://nta.ac.in/", "type": "notification" },
+      { "label": "NEET Counselling (MCC)", "url": "https://mcc.nic.in/", "type": "notification" }
+    ],
+    "nextStage": "NEET UG 2026 exam on May 4, 2026. Result expected June 2026.",
+    "lastUpdated": "2026-03-12"
+  },
+  {
+    "id": "jee-main-2026-result",
+    "examSlug": "jee-main",
+    "examName": "JEE Main (Joint Entrance Examination Main)",
+    "shortName": "JEE Main",
+    "conductingBody": "NTA",
+    "category": "teaching",
+    "resultStatus": "declared",
+    "resultDate": "2026-02-20",
+    "resultUrl": "https://jeemain.nta.nic.in/",
+    "scoreCardUrl": "https://jeemain.nta.nic.in/",
+    "answerKeyUrl": "https://jeemain.nta.nic.in/",
+    "cutOffUrl": null,
+    "meritListUrl": null,
+    "officialWebsite": "https://jeemain.nta.nic.in",
+    "year": 2026,
+    "session": "Session 1 - January 2026",
+    "howToCheck": [
+      "Visit jeemain.nta.nic.in",
+      "Click on 'JEE Main 2026 Session 1 Result'",
+      "Login with Application Number and Date of Birth",
+      "Enter the security pin",
+      "View your NTA Score and percentile",
+      "Download scorecard for JEE Advanced eligibility"
+    ],
+    "requiredDetails": ["Application Number", "Date of Birth", "Security Pin"],
+    "highlights": [
+      "Session 1 result declared",
+      "56 candidates scored 100 percentile",
+      "Top 2,50,000 eligible for JEE Advanced",
+      "Session 2 scheduled for April 2026"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "Session 1 - January 2026",
+      "categories": [
+        { "category": "General", "cutoff": 93.20, "maxMarks": 300 },
+        { "category": "OBC-NCL", "cutoff": 78.50, "maxMarks": 300 },
+        { "category": "SC", "cutoff": 55.30, "maxMarks": 300 },
+        { "category": "ST", "cutoff": 44.20, "maxMarks": 300 },
+        { "category": "EWS", "cutoff": 85.10, "maxMarks": 300 },
+        { "category": "PwD", "cutoff": 0.09, "maxMarks": 300 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "Session 1 - 2025", "generalCutoff": 93.00, "totalQualified": 250000, "resultDate": "2025-02-12" },
+      { "year": 2024, "session": "Session 1 - 2024", "generalCutoff": 93.25, "totalQualified": 250000, "resultDate": "2024-02-15" }
+    ],
+    "importantLinks": [
+      { "label": "Check Session 1 Result", "url": "https://jeemain.nta.nic.in/", "type": "result" },
+      { "label": "Download Score Card", "url": "https://jeemain.nta.nic.in/", "type": "scorecard" },
+      { "label": "View Answer Key", "url": "https://jeemain.nta.nic.in/", "type": "answerkey" },
+      { "label": "JEE Advanced Info", "url": "https://jeeadv.ac.in/", "type": "notification" }
+    ],
+    "nextStage": "JEE Main Session 2 in April 2026. JEE Advanced in May 2026.",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "id": "upsc-cse-2026-result",
+    "examSlug": "upsc-cse",
+    "examName": "UPSC Civil Services Examination",
+    "shortName": "UPSC CSE",
+    "conductingBody": "UPSC",
+    "category": "upsc",
+    "resultStatus": "declared",
+    "resultDate": "2026-01-10",
+    "resultUrl": "https://upsc.gov.in/",
+    "scoreCardUrl": null,
+    "answerKeyUrl": null,
+    "cutOffUrl": "https://upsc.gov.in/",
+    "meritListUrl": "https://upsc.gov.in/",
+    "officialWebsite": "https://upsc.gov.in",
+    "year": 2026,
+    "session": "Prelims 2025",
+    "howToCheck": [
+      "Visit upsc.gov.in official website",
+      "Click on 'Active Examinations / Results'",
+      "Select 'Civil Services (Preliminary) Examination 2025'",
+      "Find your Roll Number in the PDF list",
+      "Qualified candidates can fill DAF for Mains",
+      "Check cut-off marks notification separately"
+    ],
+    "requiredDetails": ["Roll Number"],
+    "highlights": [
+      "Prelims 2025 result declared",
+      "14,624 candidates qualified for Mains",
+      "General category cut-off: 91.34 out of 200",
+      "Mains DAF submission window open"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "Prelims 2025",
+      "categories": [
+        { "category": "General", "cutoff": 91.34, "maxMarks": 200 },
+        { "category": "OBC", "cutoff": 82.67, "maxMarks": 200 },
+        { "category": "SC", "cutoff": 74.50, "maxMarks": 200 },
+        { "category": "ST", "cutoff": 66.00, "maxMarks": 200 },
+        { "category": "EWS", "cutoff": 84.00, "maxMarks": 200 },
+        { "category": "PwD-1", "cutoff": 55.00, "maxMarks": 200 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "Prelims 2024", "generalCutoff": 90.66, "totalQualified": 14127, "resultDate": "2024-07-01" },
+      { "year": 2024, "session": "Prelims 2023", "generalCutoff": 87.54, "totalQualified": 14624, "resultDate": "2023-06-15" }
+    ],
+    "importantLinks": [
+      { "label": "Check Prelims Result", "url": "https://upsc.gov.in/", "type": "result" },
+      { "label": "View Cut-Off Marks", "url": "https://upsc.gov.in/", "type": "cutoff" },
+      { "label": "Download Merit List", "url": "https://upsc.gov.in/", "type": "result" },
+      { "label": "Mains DAF Form", "url": "https://upsconline.nic.in/", "type": "notification" }
+    ],
+    "nextStage": "Mains examination in September 2026",
+    "lastUpdated": "2026-03-01"
+  },
+  {
+    "id": "upsc-nda-2026-result",
+    "examSlug": "upsc-nda",
+    "examName": "NDA (National Defence Academy) Examination",
+    "shortName": "NDA",
+    "conductingBody": "UPSC",
+    "category": "defence",
+    "resultStatus": "declared",
+    "resultDate": "2026-03-01",
+    "resultUrl": "https://upsc.gov.in/",
+    "scoreCardUrl": null,
+    "answerKeyUrl": null,
+    "cutOffUrl": "https://upsc.gov.in/",
+    "meritListUrl": "https://upsc.gov.in/",
+    "officialWebsite": "https://upsc.gov.in",
+    "year": 2026,
+    "session": "NDA I 2026",
+    "howToCheck": [
+      "Go to upsc.gov.in",
+      "Navigate to 'Written Results'",
+      "Click on 'NDA & NA Examination (I) 2026'",
+      "Check your Roll Number in the PDF list",
+      "Qualified candidates will be called for SSB Interview",
+      "Download the result PDF for records"
+    ],
+    "requiredDetails": ["Roll Number"],
+    "highlights": [
+      "Written exam result declared",
+      "8,000+ candidates qualified for SSB Interview",
+      "SSB Interview dates to be intimated by Services Selection Board"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "NDA I 2026",
+      "categories": [
+        { "category": "General", "cutoff": 343.00, "maxMarks": 900 },
+        { "category": "OBC", "cutoff": 310.00, "maxMarks": 900 },
+        { "category": "SC", "cutoff": 280.00, "maxMarks": 900 },
+        { "category": "ST", "cutoff": 260.00, "maxMarks": 900 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "NDA II 2025", "generalCutoff": 340.00, "totalQualified": 8100, "resultDate": "2025-10-15" },
+      { "year": 2025, "session": "NDA I 2025", "generalCutoff": 338.00, "totalQualified": 7900, "resultDate": "2025-06-10" }
+    ],
+    "importantLinks": [
+      { "label": "Check Written Result", "url": "https://upsc.gov.in/", "type": "result" },
+      { "label": "Cut-Off Marks", "url": "https://upsc.gov.in/", "type": "cutoff" },
+      { "label": "SSB Interview Details", "url": "https://joinindianarmy.nic.in/", "type": "notification" }
+    ],
+    "nextStage": "SSB Interview for qualified candidates",
+    "lastUpdated": "2026-03-05"
+  },
+  {
+    "id": "rrb-ntpc-2026-result",
+    "examSlug": "rrb-ntpc",
+    "examName": "RRB NTPC (Non-Technical Popular Categories)",
+    "shortName": "RRB NTPC",
+    "conductingBody": "RRB",
+    "category": "railway",
+    "resultStatus": "declared",
+    "resultDate": "2026-02-10",
+    "resultUrl": "https://rrbcdg.gov.in/",
+    "scoreCardUrl": "https://rrbcdg.gov.in/",
+    "answerKeyUrl": "https://rrbcdg.gov.in/",
+    "cutOffUrl": "https://rrbcdg.gov.in/",
+    "meritListUrl": null,
+    "officialWebsite": "https://rrbcdg.gov.in",
+    "year": 2026,
+    "session": "CBT-1 2025-26",
+    "howToCheck": [
+      "Visit your regional RRB website (e.g., rrbcdg.gov.in)",
+      "Click on 'CEN 01/2025 NTPC Result' link",
+      "Enter your Registration Number and Date of Birth",
+      "Enter the captcha code",
+      "Click 'Login' to view your result",
+      "Download the scorecard for CBT-2 preparation"
+    ],
+    "requiredDetails": ["Registration Number", "Date of Birth", "Captcha"],
+    "highlights": [
+      "CBT-1 result declared for all RRB regions",
+      "35,281 vacancies across various posts",
+      "CBT-2 exam schedule to be announced",
+      "Score normalization applied across shifts"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "CBT-1 2025-26",
+      "categories": [
+        { "category": "General (Graduate)", "cutoff": 78.50, "maxMarks": 100 },
+        { "category": "OBC (Graduate)", "cutoff": 72.25, "maxMarks": 100 },
+        { "category": "SC (Graduate)", "cutoff": 62.00, "maxMarks": 100 },
+        { "category": "ST (Graduate)", "cutoff": 55.50, "maxMarks": 100 },
+        { "category": "General (12th Level)", "cutoff": 75.00, "maxMarks": 100 },
+        { "category": "OBC (12th Level)", "cutoff": 68.50, "maxMarks": 100 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "CBT-1 2024-25", "generalCutoff": 76.50, "totalQualified": 500000, "resultDate": "2025-01-20" },
+      { "year": 2021, "session": "CBT-1 2019-21", "generalCutoff": 73.00, "totalQualified": 700000, "resultDate": "2022-03-30" }
+    ],
+    "importantLinks": [
+      { "label": "Check CBT-1 Result", "url": "https://rrbcdg.gov.in/", "type": "result" },
+      { "label": "Download Score Card", "url": "https://rrbcdg.gov.in/", "type": "scorecard" },
+      { "label": "View Answer Key", "url": "https://rrbcdg.gov.in/", "type": "answerkey" },
+      { "label": "RRB Region-wise Websites", "url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281", "type": "notification" }
+    ],
+    "nextStage": "CBT-2 for shortlisted candidates. Schedule to be announced.",
+    "lastUpdated": "2026-03-08"
+  },
+  {
+    "id": "rrb-group-d-2026-result",
+    "examSlug": "rrb-group-d",
+    "examName": "RRB Group D (Level 1 Posts)",
+    "shortName": "RRB Group D",
+    "conductingBody": "RRB",
+    "category": "railway",
+    "resultStatus": "awaited",
+    "resultDate": "2026-05-15",
+    "resultUrl": "https://rrbcdg.gov.in/",
+    "scoreCardUrl": null,
+    "answerKeyUrl": "https://rrbcdg.gov.in/",
+    "cutOffUrl": null,
+    "meritListUrl": null,
+    "officialWebsite": "https://rrbcdg.gov.in",
+    "year": 2026,
+    "session": "CBT 2025-26",
+    "howToCheck": [
+      "Visit your regional RRB website",
+      "Look for 'CEN RRC 01/2025 Result' link",
+      "Login with Registration Number and Date of Birth",
+      "Solve the captcha and click submit",
+      "Result will show Qualified/Not Qualified status",
+      "Qualified candidates to appear for PET"
+    ],
+    "requiredDetails": ["Registration Number", "Date of Birth", "Captcha"],
+    "highlights": [
+      "CBT exam conducted in multiple phases",
+      "1,03,769 vacancies - largest railway recruitment",
+      "Answer key released, objections closed",
+      "Result expected by May 2026"
+    ],
+    "cutOff": null,
+    "previousResults": [
+      { "year": 2022, "session": "CBT 2019", "generalCutoff": 72.00, "totalQualified": 800000, "resultDate": "2022-08-20" }
+    ],
+    "importantLinks": [
+      { "label": "Check Result (When Available)", "url": "https://rrbcdg.gov.in/", "type": "result" },
+      { "label": "View Answer Key", "url": "https://rrbcdg.gov.in/", "type": "answerkey" },
+      { "label": "Official Notification", "url": "https://rrbcdg.gov.in/", "type": "notification" }
+    ],
+    "nextStage": "Result awaited. PET will be conducted after CBT result.",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "id": "ibps-po-2026-result",
+    "examSlug": "ibps-po",
+    "examName": "IBPS PO (Probationary Officer) Examination",
+    "shortName": "IBPS PO",
+    "conductingBody": "IBPS",
+    "category": "banking",
+    "resultStatus": "declared",
+    "resultDate": "2026-01-25",
+    "resultUrl": "https://ibps.in/",
+    "scoreCardUrl": "https://ibps.in/",
+    "answerKeyUrl": null,
+    "cutOffUrl": "https://ibps.in/",
+    "meritListUrl": "https://ibps.in/",
+    "officialWebsite": "https://ibps.in",
+    "year": 2026,
+    "session": "Prelims CRP PO/MT-XV",
+    "howToCheck": [
+      "Visit ibps.in official website",
+      "Click on 'CRP PO/MT-XV' link",
+      "Select 'Prelims Result' option",
+      "Enter Registration Number and Date of Birth / Password",
+      "Enter the captcha and click 'Login'",
+      "View your result status and scorecard"
+    ],
+    "requiredDetails": ["Registration Number", "Date of Birth / Password", "Captcha"],
+    "highlights": [
+      "Prelims result declared for CRP PO/MT-XV",
+      "4,455 vacancies in participating banks",
+      "Mains exam scheduled for February 2026",
+      "Sectional cut-off applied"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "Prelims CRP PO/MT-XV",
+      "categories": [
+        { "category": "General", "cutoff": 62.50, "maxMarks": 100 },
+        { "category": "OBC", "cutoff": 58.75, "maxMarks": 100 },
+        { "category": "SC", "cutoff": 48.25, "maxMarks": 100 },
+        { "category": "ST", "cutoff": 38.00, "maxMarks": 100 },
+        { "category": "EWS", "cutoff": 55.50, "maxMarks": 100 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "Prelims CRP PO/MT-XIV", "generalCutoff": 60.25, "totalQualified": 52000, "resultDate": "2025-01-18" },
+      { "year": 2024, "session": "Prelims CRP PO/MT-XIII", "generalCutoff": 58.00, "totalQualified": 50000, "resultDate": "2024-01-22" }
+    ],
+    "importantLinks": [
+      { "label": "Check Prelims Result", "url": "https://ibps.in/", "type": "result" },
+      { "label": "Download Score Card", "url": "https://ibps.in/", "type": "scorecard" },
+      { "label": "View Cut-Off Marks", "url": "https://ibps.in/", "type": "cutoff" },
+      { "label": "Mains Admit Card", "url": "https://ibps.in/", "type": "notification" }
+    ],
+    "nextStage": "Mains examination in February 2026",
+    "lastUpdated": "2026-03-05"
+  },
+  {
+    "id": "ibps-clerk-2026-result",
+    "examSlug": "ibps-clerk",
+    "examName": "IBPS Clerk (Clerical Cadre) Examination",
+    "shortName": "IBPS Clerk",
+    "conductingBody": "IBPS",
+    "category": "banking",
+    "resultStatus": "declared",
+    "resultDate": "2026-02-05",
+    "resultUrl": "https://ibps.in/",
+    "scoreCardUrl": "https://ibps.in/",
+    "answerKeyUrl": null,
+    "cutOffUrl": "https://ibps.in/",
+    "meritListUrl": "https://ibps.in/",
+    "officialWebsite": "https://ibps.in",
+    "year": 2026,
+    "session": "Mains CRP Clerk-XV",
+    "howToCheck": [
+      "Go to ibps.in",
+      "Click on 'CRP Clerks-XV' section",
+      "Select 'Mains Result / Final Result'",
+      "Login with Registration Number and Password",
+      "Complete captcha verification",
+      "View your final result with allotment details"
+    ],
+    "requiredDetails": ["Registration Number", "Password", "Captcha"],
+    "highlights": [
+      "Final result with provisional allotment declared",
+      "6,128 vacancies across 11 participating banks",
+      "State-wise merit list prepared",
+      "Joining dates to be communicated by allotted banks"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "Mains CRP Clerk-XV",
+      "categories": [
+        { "category": "General", "cutoff": 75.50, "maxMarks": 200 },
+        { "category": "OBC", "cutoff": 68.75, "maxMarks": 200 },
+        { "category": "SC", "cutoff": 55.00, "maxMarks": 200 },
+        { "category": "ST", "cutoff": 42.50, "maxMarks": 200 },
+        { "category": "EWS", "cutoff": 70.00, "maxMarks": 200 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "Mains CRP Clerk-XIV", "generalCutoff": 74.00, "totalQualified": 7000, "resultDate": "2025-02-10" },
+      { "year": 2024, "session": "Mains CRP Clerk-XIII", "generalCutoff": 72.50, "totalQualified": 6500, "resultDate": "2024-03-01" }
+    ],
+    "importantLinks": [
+      { "label": "Check Final Result", "url": "https://ibps.in/", "type": "result" },
+      { "label": "Provisional Allotment", "url": "https://ibps.in/", "type": "result" },
+      { "label": "Download Score Card", "url": "https://ibps.in/", "type": "scorecard" },
+      { "label": "Cut-Off Marks", "url": "https://ibps.in/", "type": "cutoff" }
+    ],
+    "nextStage": "Provisional allotment completed. Joining instructions from banks.",
+    "lastUpdated": "2026-03-02"
+  },
+  {
+    "id": "upsc-cds-2026-result",
+    "examSlug": "upsc-cds",
+    "examName": "UPSC CDS (Combined Defence Services) Examination",
+    "shortName": "UPSC CDS",
+    "conductingBody": "UPSC",
+    "category": "defence",
+    "resultStatus": "awaited",
+    "resultDate": "2026-04-20",
+    "resultUrl": "https://upsc.gov.in/",
+    "scoreCardUrl": null,
+    "answerKeyUrl": null,
+    "cutOffUrl": null,
+    "meritListUrl": null,
+    "officialWebsite": "https://upsc.gov.in",
+    "year": 2026,
+    "session": "CDS I 2026",
+    "howToCheck": [
+      "Visit upsc.gov.in",
+      "Go to 'Written Results' section",
+      "Click on 'CDS Examination (I) 2026'",
+      "Check your Roll Number in the result PDF",
+      "Download the result for SSB interview preparation"
+    ],
+    "requiredDetails": ["Roll Number"],
+    "highlights": [
+      "CDS I 2026 exam conducted in February 2026",
+      "Result expected by April 2026",
+      "Vacancies in IMA, INA, AFA and OTA"
+    ],
+    "cutOff": null,
+    "previousResults": [
+      { "year": 2025, "session": "CDS II 2025", "generalCutoff": 115.00, "totalQualified": 8500, "resultDate": "2025-12-10" },
+      { "year": 2025, "session": "CDS I 2025", "generalCutoff": 112.00, "totalQualified": 8200, "resultDate": "2025-06-20" }
+    ],
+    "importantLinks": [
+      { "label": "Check Result (When Available)", "url": "https://upsc.gov.in/", "type": "result" },
+      { "label": "Official Notification", "url": "https://upsc.gov.in/", "type": "notification" }
+    ],
+    "nextStage": "Written result awaited. SSB Interview after result declaration.",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "id": "ugc-net-2026-result",
+    "examSlug": "ugc-net",
+    "examName": "UGC NET (National Eligibility Test)",
+    "shortName": "UGC NET",
+    "conductingBody": "NTA",
+    "category": "teaching",
+    "resultStatus": "declared",
+    "resultDate": "2026-02-25",
+    "resultUrl": "https://ugcnet.nta.ac.in/",
+    "scoreCardUrl": "https://ugcnet.nta.ac.in/",
+    "answerKeyUrl": "https://ugcnet.nta.ac.in/",
+    "cutOffUrl": "https://ugcnet.nta.ac.in/",
+    "meritListUrl": null,
+    "officialWebsite": "https://ugcnet.nta.ac.in",
+    "year": 2026,
+    "session": "December 2025",
+    "howToCheck": [
+      "Visit ugcnet.nta.ac.in",
+      "Click on 'UGC NET December 2025 Result'",
+      "Login with Application Number and Date of Birth",
+      "Enter the captcha/security pin",
+      "View your result - JRF/Assistant Professor/Not Qualified",
+      "Download the e-certificate from DigiLocker"
+    ],
+    "requiredDetails": ["Application Number", "Date of Birth", "Security Pin"],
+    "highlights": [
+      "Result declared for 83 subjects",
+      "JRF and Assistant Professor eligibility determined",
+      "Over 16 lakh candidates appeared",
+      "E-certificates available on DigiLocker"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "December 2025",
+      "categories": [
+        { "category": "General (JRF)", "cutoff": 120.00, "maxMarks": 300 },
+        { "category": "General (Asst Prof)", "cutoff": 90.00, "maxMarks": 300 },
+        { "category": "OBC (JRF)", "cutoff": 108.00, "maxMarks": 300 },
+        { "category": "OBC (Asst Prof)", "cutoff": 81.00, "maxMarks": 300 },
+        { "category": "SC/ST (JRF)", "cutoff": 90.00, "maxMarks": 300 },
+        { "category": "SC/ST (Asst Prof)", "cutoff": 60.00, "maxMarks": 300 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "June 2025", "generalCutoff": 118.00, "totalQualified": 85000, "resultDate": "2025-09-15" },
+      { "year": 2024, "session": "December 2024", "generalCutoff": 115.00, "totalQualified": 80000, "resultDate": "2025-03-10" }
+    ],
+    "importantLinks": [
+      { "label": "Check Result", "url": "https://ugcnet.nta.ac.in/", "type": "result" },
+      { "label": "Download Score Card", "url": "https://ugcnet.nta.ac.in/", "type": "scorecard" },
+      { "label": "E-Certificate (DigiLocker)", "url": "https://digilocker.gov.in/", "type": "result" },
+      { "label": "View Answer Key", "url": "https://ugcnet.nta.ac.in/", "type": "answerkey" },
+      { "label": "Subject-wise Cut-Off", "url": "https://ugcnet.nta.ac.in/", "type": "cutoff" }
+    ],
+    "nextStage": "E-certificates being issued. Next cycle: June 2026.",
+    "lastUpdated": "2026-03-08"
+  },
+  {
+    "id": "sbi-po-2026-result",
+    "examSlug": "sbi-po",
+    "examName": "SBI PO (Probationary Officer) Examination",
+    "shortName": "SBI PO",
+    "conductingBody": "SBI",
+    "category": "banking",
+    "resultStatus": "declared",
+    "resultDate": "2026-01-30",
+    "resultUrl": "https://sbi.co.in/web/careers/current-openings",
+    "scoreCardUrl": "https://sbi.co.in/web/careers/current-openings",
+    "answerKeyUrl": null,
+    "cutOffUrl": "https://sbi.co.in/web/careers/current-openings",
+    "meritListUrl": "https://sbi.co.in/web/careers/current-openings",
+    "officialWebsite": "https://sbi.co.in/careers",
+    "year": 2026,
+    "session": "Prelims 2025-26",
+    "howToCheck": [
+      "Visit sbi.co.in/careers",
+      "Click on 'Current Openings'",
+      "Find 'PO Recruitment' and click on 'Result' link",
+      "Login with Registration Number and Date of Birth/Password",
+      "Complete captcha and submit",
+      "View Prelims result and download scorecard"
+    ],
+    "requiredDetails": ["Registration Number", "Date of Birth / Password", "Captcha"],
+    "highlights": [
+      "Prelims result declared",
+      "2,000 PO vacancies",
+      "Mains exam date announced",
+      "Category-wise and section-wise cut-off applied"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "Prelims 2025-26",
+      "categories": [
+        { "category": "General", "cutoff": 65.50, "maxMarks": 100 },
+        { "category": "OBC", "cutoff": 60.25, "maxMarks": 100 },
+        { "category": "SC", "cutoff": 50.00, "maxMarks": 100 },
+        { "category": "ST", "cutoff": 40.00, "maxMarks": 100 },
+        { "category": "EWS", "cutoff": 58.00, "maxMarks": 100 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "Prelims 2024-25", "generalCutoff": 64.00, "totalQualified": 25000, "resultDate": "2025-01-25" },
+      { "year": 2024, "session": "Prelims 2023-24", "generalCutoff": 62.50, "totalQualified": 24000, "resultDate": "2024-02-05" }
+    ],
+    "importantLinks": [
+      { "label": "Check Prelims Result", "url": "https://sbi.co.in/web/careers/current-openings", "type": "result" },
+      { "label": "Download Score Card", "url": "https://sbi.co.in/web/careers/current-openings", "type": "scorecard" },
+      { "label": "Mains Exam Details", "url": "https://sbi.co.in/web/careers/current-openings", "type": "notification" }
+    ],
+    "nextStage": "Mains examination in March 2026",
+    "lastUpdated": "2026-03-05"
+  },
+  {
+    "id": "cuet-ug-2026-result",
+    "examSlug": "cuet-ug",
+    "examName": "CUET UG (Common University Entrance Test)",
+    "shortName": "CUET UG",
+    "conductingBody": "NTA",
+    "category": "teaching",
+    "resultStatus": "upcoming",
+    "resultDate": "2026-07-15",
+    "resultUrl": "https://cuet.nta.nic.in/",
+    "scoreCardUrl": "https://cuet.nta.nic.in/",
+    "answerKeyUrl": null,
+    "cutOffUrl": null,
+    "meritListUrl": null,
+    "officialWebsite": "https://cuet.nta.nic.in",
+    "year": 2026,
+    "session": "CUET UG 2026",
+    "howToCheck": [
+      "Visit cuet.nta.nic.in",
+      "Click on 'CUET UG 2026 Result' link",
+      "Login with Application Number and Date of Birth",
+      "Enter the security pin displayed",
+      "View your NTA percentile score",
+      "Download scorecard for CSAS counselling"
+    ],
+    "requiredDetails": ["Application Number", "Date of Birth", "Security Pin"],
+    "highlights": [
+      "CUET UG 2026 exam in May-June 2026",
+      "Result expected by July 2026",
+      "Mandatory for admission to Central Universities",
+      "Hybrid mode (CBT) examination"
+    ],
+    "cutOff": null,
+    "previousResults": [
+      { "year": 2025, "session": "CUET UG 2025", "generalCutoff": 0, "totalQualified": 1200000, "resultDate": "2025-07-20" },
+      { "year": 2024, "session": "CUET UG 2024", "generalCutoff": 0, "totalQualified": 1100000, "resultDate": "2024-07-15" }
+    ],
+    "importantLinks": [
+      { "label": "CUET Official Portal", "url": "https://cuet.nta.nic.in/", "type": "result" },
+      { "label": "CSAS Counselling", "url": "https://cuet.samarth.ac.in/", "type": "notification" },
+      { "label": "NTA Official Website", "url": "https://nta.ac.in/", "type": "notification" }
+    ],
+    "nextStage": "Exam scheduled for May-June 2026. Result expected July 2026.",
+    "lastUpdated": "2026-03-12"
+  },
+  {
+    "id": "afcat-2026-result",
+    "examSlug": "afcat",
+    "examName": "AFCAT (Air Force Common Admission Test)",
+    "shortName": "AFCAT",
+    "conductingBody": "IAF",
+    "category": "defence",
+    "resultStatus": "declared",
+    "resultDate": "2026-03-05",
+    "resultUrl": "https://afcat.cdac.in/AFCAT/",
+    "scoreCardUrl": "https://afcat.cdac.in/AFCAT/",
+    "answerKeyUrl": null,
+    "cutOffUrl": null,
+    "meritListUrl": null,
+    "officialWebsite": "https://afcat.cdac.in",
+    "year": 2026,
+    "session": "AFCAT 1/2026",
+    "howToCheck": [
+      "Visit afcat.cdac.in/AFCAT",
+      "Click on 'AFCAT 1/2026 Result'",
+      "Login with Email ID and Password",
+      "View your result - Shortlisted/Not Shortlisted",
+      "Shortlisted candidates will receive AFSB call-up letter",
+      "Download the result for your records"
+    ],
+    "requiredDetails": ["Email ID", "Password"],
+    "highlights": [
+      "AFCAT 1/2026 result declared",
+      "Shortlisted candidates to appear for AFSB Testing",
+      "Vacancies in Flying, Technical and Ground Duty branches"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "AFCAT 1/2026",
+      "categories": [
+        { "category": "General (Overall)", "cutoff": 140.00, "maxMarks": 300 },
+        { "category": "EKT (Technical)", "cutoff": 45.00, "maxMarks": 150 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "AFCAT 2/2025", "generalCutoff": 138.00, "totalQualified": 5000, "resultDate": "2025-12-15" },
+      { "year": 2025, "session": "AFCAT 1/2025", "generalCutoff": 135.00, "totalQualified": 4800, "resultDate": "2025-04-20" }
+    ],
+    "importantLinks": [
+      { "label": "Check AFCAT Result", "url": "https://afcat.cdac.in/AFCAT/", "type": "result" },
+      { "label": "AFSB Schedule", "url": "https://afcat.cdac.in/AFCAT/", "type": "notification" },
+      { "label": "Indian Air Force Careers", "url": "https://indianairforce.nic.in/", "type": "notification" }
+    ],
+    "nextStage": "AFSB Testing for shortlisted candidates",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "id": "ctet-2026-result",
+    "examSlug": "ctet",
+    "examName": "CTET (Central Teacher Eligibility Test)",
+    "shortName": "CTET",
+    "conductingBody": "CBSE",
+    "category": "teaching",
+    "resultStatus": "declared",
+    "resultDate": "2026-02-18",
+    "resultUrl": "https://ctet.nic.in/",
+    "scoreCardUrl": "https://ctet.nic.in/",
+    "answerKeyUrl": "https://ctet.nic.in/",
+    "cutOffUrl": null,
+    "meritListUrl": null,
+    "officialWebsite": "https://ctet.nic.in",
+    "year": 2026,
+    "session": "January 2026 (20th Edition)",
+    "howToCheck": [
+      "Visit ctet.nic.in official website",
+      "Click on 'CTET January 2026 Result' link",
+      "Login with Application Number and Date of Birth",
+      "Enter the security code",
+      "View your marks and qualifying status",
+      "Download the CTET certificate (valid for lifetime)"
+    ],
+    "requiredDetails": ["Application Number", "Date of Birth", "Security Code"],
+    "highlights": [
+      "Result declared for Paper I and Paper II",
+      "CTET certificate now valid for lifetime",
+      "Over 25 lakh candidates appeared",
+      "DigiLocker e-marksheet available"
+    ],
+    "cutOff": {
+      "year": 2026,
+      "session": "January 2026",
+      "categories": [
+        { "category": "General (Paper I)", "cutoff": 90.00, "maxMarks": 150 },
+        { "category": "OBC/SC/ST (Paper I)", "cutoff": 82.50, "maxMarks": 150 },
+        { "category": "General (Paper II)", "cutoff": 90.00, "maxMarks": 150 },
+        { "category": "OBC/SC/ST (Paper II)", "cutoff": 82.50, "maxMarks": 150 }
+      ]
+    },
+    "previousResults": [
+      { "year": 2025, "session": "July 2025", "generalCutoff": 90.00, "totalQualified": 350000, "resultDate": "2025-09-10" },
+      { "year": 2024, "session": "January 2024", "generalCutoff": 90.00, "totalQualified": 320000, "resultDate": "2024-03-15" }
+    ],
+    "importantLinks": [
+      { "label": "Check Result", "url": "https://ctet.nic.in/", "type": "result" },
+      { "label": "Download Score Card", "url": "https://ctet.nic.in/", "type": "scorecard" },
+      { "label": "View Answer Key", "url": "https://ctet.nic.in/", "type": "answerkey" },
+      { "label": "CTET Certificate (DigiLocker)", "url": "https://digilocker.gov.in/", "type": "result" }
+    ],
+    "nextStage": "CTET certificate issued. Next exam: July 2026.",
+    "lastUpdated": "2026-03-05"
+  }
+]

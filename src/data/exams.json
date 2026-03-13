@@ -1,0 +1,1293 @@
+[
+  {
+    "id": "ssc-cgl-2026",
+    "slug": "ssc-cgl",
+    "name": "SSC CGL (Combined Graduate Level) Examination",
+    "shortName": "SSC CGL",
+    "conductingBody": "SSC",
+    "category": "ssc",
+    "description": "SSC CGL is conducted for recruitment to various Group B and Group C posts in ministries, departments and organisations of the Government of India.",
+    "officialWebsite": "https://ssc.gov.in",
+    "applicationLink": "https://ssc.gov.in",
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "Bachelor's Degree from a recognized University",
+      "ageLimit": { "min": 18, "max": 32 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD": "10 years" },
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Tier-I (Computer Based)",
+          "subjects": [
+            { "name": "General Intelligence & Reasoning", "questions": 25, "marks": 50 },
+            { "name": "General Awareness", "questions": 25, "marks": 50 },
+            { "name": "Quantitative Aptitude", "questions": 25, "marks": 50 },
+            { "name": "English Comprehension", "questions": 25, "marks": 50 }
+          ],
+          "totalMarks": 200,
+          "duration": "60 minutes",
+          "totalQuestions": 100,
+          "type": "MCQ"
+        },
+        {
+          "name": "Tier-II (Computer Based)",
+          "subjects": [
+            { "name": "Mathematical Abilities", "questions": 30, "marks": 90 },
+            { "name": "Reasoning & General Intelligence", "questions": 30, "marks": 90 },
+            { "name": "English Language & Comprehension", "questions": 45, "marks": 135 },
+            { "name": "General Awareness", "questions": 25, "marks": 75 },
+            { "name": "Computer Knowledge", "questions": 20, "marks": 60 }
+          ],
+          "totalMarks": 450,
+          "duration": "150 minutes",
+          "totalQuestions": 150,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "0.50 marks for each wrong answer in Tier-I; variable in Tier-II"
+    },
+    "syllabus": [
+      {
+        "stageName": "Tier-I",
+        "subjects": [
+          {
+            "name": "General Intelligence & Reasoning",
+            "topics": ["Analogies", "Similarities & Differences", "Space Visualization", "Spatial Orientation", "Problem Solving", "Analysis", "Judgement", "Decision Making", "Visual Memory", "Discrimination", "Observation", "Relationship Concepts", "Arithmetical Reasoning", "Verbal & Figure Classification", "Arithmetical Number Series", "Non-Verbal Series", "Coding & Decoding", "Statement Conclusion", "Syllogistic Reasoning"]
+          },
+          {
+            "name": "General Awareness",
+            "topics": ["Current Affairs", "India & its neighbouring countries", "History", "Culture", "Geography", "Economic Scene", "General Polity", "Indian Constitution", "Scientific Research", "Sports", "Awards & Honours"]
+          },
+          {
+            "name": "Quantitative Aptitude",
+            "topics": ["Number Systems", "Computation of Whole Numbers", "Decimals", "Fractions", "Relationships between Numbers", "Profit & Loss", "Discount", "Partnership Business", "Mixture & Alligation", "Time & Distance", "Time & Work", "Percentage", "Ratio & Proportion", "Square Roots", "Averages", "Interest", "Basic Algebra", "Graphs of Linear Equations", "Triangle & its Centres", "Congruence & Similarity of Triangles", "Circle & its Chords", "Regular Polygons", "Right Prism", "Right Circular Cone", "Right Circular Cylinder", "Sphere", "Hemispheres", "Rectangular Parallelepiped", "Trigonometric Ratios", "Degree & Radian Measures", "Standard Identities", "Complementary Angles", "Heights & Distances", "Histogram", "Frequency Polygon", "Bar Diagram", "Pie Chart"]
+          },
+          {
+            "name": "English Comprehension",
+            "topics": ["Reading Comprehension", "Cloze Test", "Error Spotting", "Sentence Correction", "Synonyms", "Antonyms", "Spelling Correction", "Idioms & Phrases", "One Word Substitution", "Sentence Improvement", "Active & Passive Voice", "Direct & Indirect Speech", "Parajumbles", "Fill in the Blanks"]
+          }
+        ]
+      },
+      {
+        "stageName": "Tier-II",
+        "subjects": [
+          {
+            "name": "Mathematical Abilities",
+            "topics": ["Number System", "Algebra", "Geometry", "Mensuration", "Trigonometry", "Statistics & Probability", "Data Interpretation"]
+          },
+          {
+            "name": "Reasoning & General Intelligence",
+            "topics": ["Semantic Analogy", "Symbolic Operations", "Symbolic/Number Analogy", "Trends", "Figural Analogy", "Space Orientation", "Semantic Classification", "Venn Diagrams", "Symbolic/Number Classification", "Drawing Inferences", "Figural Classification", "Punched Hole/Pattern", "Semantic Series", "Figural Pattern", "Number Series", "Embedded Figures", "Figural Series", "Critical Thinking", "Problem Solving", "Emotional Intelligence", "Word Building", "Social Intelligence", "Coding & Decoding"]
+          },
+          {
+            "name": "English Language & Comprehension",
+            "topics": ["Vocabulary", "English Grammar", "Sentence Structure", "Spot the Error", "Fill in the Blanks", "Synonyms/Antonyms", "Spelling/Detecting Misspelt Words", "Idioms & Phrases", "One Word Substitution", "Improvement of Sentences", "Active/Passive Voice", "Direct/Indirect Speech", "Parajumbles", "Cloze Passage", "Comprehension Passage"]
+          },
+          {
+            "name": "General Awareness",
+            "topics": ["India & its neighbouring countries", "History", "Culture", "Geography", "Economic Scene", "General Polity", "Indian Constitution", "Scientific Research", "Current Affairs"]
+          },
+          {
+            "name": "Computer Knowledge",
+            "topics": ["Computer Basics", "Organization of Computer", "Generations of Computers", "Input/Output Devices", "Shortcuts & Basic Knowledge of MS Office", "Internet & Email", "Networking & Communication", "Database Management", "Computer Security", "Open Source & Free Software"]
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Release", "date": "2026-04-15", "isConfirmed": false },
+      { "event": "Application Start Date", "date": "2026-04-20", "isConfirmed": false },
+      { "event": "Application End Date", "date": "2026-05-20", "isConfirmed": false },
+      { "event": "Tier-I Exam Date", "date": "2026-07-15", "isConfirmed": false },
+      { "event": "Tier-II Exam Date", "date": "2026-10-10", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["graduate", "group-b", "group-c", "ssc", "government-job", "central-government"]
+  },
+  {
+    "id": "ssc-chsl-2026",
+    "slug": "ssc-chsl",
+    "name": "SSC CHSL (Combined Higher Secondary Level) Examination",
+    "shortName": "SSC CHSL",
+    "conductingBody": "SSC",
+    "category": "ssc",
+    "description": "SSC CHSL is conducted for recruitment to Lower Division Clerk (LDC), Junior Secretariat Assistant (JSA), Postal Assistant (PA), Sorting Assistant (SA), and Data Entry Operator (DEO).",
+    "officialWebsite": "https://ssc.gov.in",
+    "applicationLink": "https://ssc.gov.in",
+    "applicationStatus": "active",
+    "eligibility": {
+      "educationRequired": "12th Pass (Higher Secondary) from a recognized Board",
+      "ageLimit": { "min": 18, "max": 27 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD": "10 years" },
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Tier-I (Computer Based)",
+          "subjects": [
+            { "name": "General Intelligence", "questions": 25, "marks": 50 },
+            { "name": "English Language", "questions": 25, "marks": 50 },
+            { "name": "Quantitative Aptitude", "questions": 25, "marks": 50 },
+            { "name": "General Awareness", "questions": 25, "marks": 50 }
+          ],
+          "totalMarks": 200,
+          "duration": "60 minutes",
+          "totalQuestions": 100,
+          "type": "MCQ"
+        },
+        {
+          "name": "Tier-II (Computer Based)",
+          "subjects": [
+            { "name": "Mathematical Abilities", "questions": 30, "marks": 90 },
+            { "name": "Reasoning & General Intelligence", "questions": 30, "marks": 90 },
+            { "name": "English Language & Comprehension", "questions": 40, "marks": 120 },
+            { "name": "General Awareness", "questions": 20, "marks": 60 },
+            { "name": "Computer Knowledge", "questions": 15, "marks": 45 }
+          ],
+          "totalMarks": 405,
+          "duration": "135 minutes",
+          "totalQuestions": 135,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "0.50 marks for each wrong answer in Tier-I"
+    },
+    "syllabus": [
+      {
+        "stageName": "Tier-I",
+        "subjects": [
+          {
+            "name": "General Intelligence",
+            "topics": ["Analogies", "Similarities & Differences", "Space Visualization", "Problem Solving", "Analysis", "Judgement", "Decision Making", "Visual Memory", "Observation", "Relationship Concepts", "Verbal & Figure Classification", "Arithmetical Number Series", "Non-Verbal Series", "Coding & Decoding"]
+          },
+          {
+            "name": "English Language",
+            "topics": ["Spot the Error", "Fill in the Blanks", "Synonyms/Antonyms", "Spelling Correction", "Idioms & Phrases", "One Word Substitution", "Sentence Improvement", "Active/Passive Voice", "Direct/Indirect Speech", "Cloze Test", "Comprehension Passage"]
+          },
+          {
+            "name": "Quantitative Aptitude",
+            "topics": ["Number Systems", "Profit & Loss", "Discount", "Time & Distance", "Time & Work", "Percentage", "Ratio & Proportion", "Averages", "Interest", "Geometry", "Mensuration", "Trigonometry", "Data Interpretation"]
+          },
+          {
+            "name": "General Awareness",
+            "topics": ["Current Affairs", "History", "Geography", "Polity", "Economics", "Science", "Sports", "Awards"]
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Release", "date": "2026-03-10", "isConfirmed": true },
+      { "event": "Application Start Date", "date": "2026-03-15", "isConfirmed": true },
+      { "event": "Application End Date", "date": "2026-04-15", "isConfirmed": true },
+      { "event": "Tier-I Exam Date", "date": "2026-06-20", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["12th-pass", "ldc", "deo", "postal", "ssc", "government-job"]
+  },
+  {
+    "id": "ssc-mts-2026",
+    "slug": "ssc-mts",
+    "name": "SSC MTS (Multi-Tasking Staff) Examination",
+    "shortName": "SSC MTS",
+    "conductingBody": "SSC",
+    "category": "ssc",
+    "description": "SSC MTS exam is for recruitment to Multi-Tasking (Non-Technical) Staff and Havaldar (CBIC & CBN) in various central government departments.",
+    "officialWebsite": "https://ssc.gov.in",
+    "applicationLink": null,
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "10th Pass (Matriculation) from a recognized Board",
+      "ageLimit": { "min": 18, "max": 25 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD": "10 years" },
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Computer Based Test",
+          "subjects": [
+            { "name": "Numerical & Mathematical Ability", "questions": 20, "marks": 60 },
+            { "name": "Reasoning Ability & Problem Solving", "questions": 20, "marks": 60 },
+            { "name": "General Awareness", "questions": 25, "marks": 75 },
+            { "name": "English Language & Comprehension", "questions": 25, "marks": 75 }
+          ],
+          "totalMarks": 270,
+          "duration": "90 minutes",
+          "totalQuestions": 90,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "1 mark deducted for each wrong answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "Computer Based Test",
+        "subjects": [
+          {
+            "name": "Numerical & Mathematical Ability",
+            "topics": ["Number Systems", "Computation of Whole Numbers", "Decimals", "Fractions", "Percentage", "Ratio & Proportion", "Averages", "Interest", "Profit & Loss", "Discount", "Time & Distance", "Time & Work", "Basic Algebra", "Geometry", "Mensuration"]
+          },
+          {
+            "name": "Reasoning Ability",
+            "topics": ["Analogies", "Similarities & Differences", "Spatial Visualization", "Problem Solving", "Visual Memory", "Observation", "Coding & Decoding", "Number Series", "Non-Verbal Series"]
+          },
+          {
+            "name": "General Awareness",
+            "topics": ["Current Affairs", "History", "Geography", "Polity", "Economics", "General Science", "Sports", "Culture"]
+          },
+          {
+            "name": "English Language",
+            "topics": ["Basics of English Language", "Vocabulary", "Grammar", "Sentence Structure", "Synonyms", "Antonyms", "Comprehension"]
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Release", "date": "2026-05-01", "isConfirmed": false },
+      { "event": "Application Start Date", "date": "2026-05-10", "isConfirmed": false },
+      { "event": "Exam Date", "date": "2026-08-15", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["10th-pass", "mts", "havaldar", "ssc", "government-job"]
+  },
+  {
+    "id": "ssc-gd-2026",
+    "slug": "ssc-gd",
+    "name": "SSC GD Constable Examination",
+    "shortName": "SSC GD",
+    "conductingBody": "SSC",
+    "category": "ssc",
+    "description": "SSC GD Constable exam is conducted for recruitment of Constables (GD) in CAPFs, NIA, SSF and Rifleman (GD) in Assam Rifles.",
+    "officialWebsite": "https://ssc.gov.in",
+    "applicationLink": null,
+    "applicationStatus": "closed",
+    "eligibility": {
+      "educationRequired": "10th Pass (Matriculation) from a recognized Board",
+      "ageLimit": { "min": 18, "max": 23 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD": "10 years" },
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Computer Based Examination",
+          "subjects": [
+            { "name": "General Intelligence & Reasoning", "questions": 20, "marks": 40 },
+            { "name": "General Knowledge & General Awareness", "questions": 20, "marks": 40 },
+            { "name": "Elementary Mathematics", "questions": 20, "marks": 40 },
+            { "name": "English/Hindi", "questions": 20, "marks": 40 }
+          ],
+          "totalMarks": 160,
+          "duration": "60 minutes",
+          "totalQuestions": 80,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "0.50 marks for each wrong answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "Computer Based Examination",
+        "subjects": [
+          { "name": "General Intelligence & Reasoning", "topics": ["Analogies", "Similarities & Differences", "Spatial Visualization", "Analysis", "Judgement", "Decision Making", "Problem Solving", "Coding & Decoding", "Number Series"] },
+          { "name": "General Knowledge", "topics": ["Current Affairs", "India & World", "History", "Geography", "Polity", "Economics", "General Science"] },
+          { "name": "Elementary Mathematics", "topics": ["Number Systems", "Whole Numbers", "Decimals", "Fractions", "Percentage", "Ratio & Proportion", "Time & Distance", "Time & Work", "Profit & Loss", "Interest", "Geometry", "Mensuration"] },
+          { "name": "English/Hindi", "topics": ["Fill in the Blanks", "Error Spotting", "Comprehension", "Synonyms", "Antonyms", "Spelling", "One Word Substitution", "Idioms & Phrases"] }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Result Declaration", "date": "2026-04-30", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["10th-pass", "constable", "capf", "bsf", "cisf", "crpf", "ssc", "defence"]
+  },
+  {
+    "id": "nta-neet-ug-2026",
+    "slug": "neet-ug",
+    "name": "NEET UG (National Eligibility cum Entrance Test)",
+    "shortName": "NEET UG",
+    "conductingBody": "NTA",
+    "category": "teaching",
+    "description": "NEET UG is the single entrance examination for admission to MBBS, BDS, AYUSH, BVSc & AH and other medical/dental courses in India.",
+    "officialWebsite": "https://neet.nta.nic.in",
+    "applicationLink": "https://neet.nta.nic.in",
+    "applicationStatus": "active",
+    "eligibility": {
+      "educationRequired": "12th Pass with Physics, Chemistry, Biology/Biotechnology with minimum 50% marks",
+      "ageLimit": { "min": 17, "max": 0 },
+      "ageRelaxation": { "SC/ST/OBC": "No upper age limit" },
+      "attempts": "No limit",
+      "nationality": "Indian / OCI"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "NEET UG Exam",
+          "subjects": [
+            { "name": "Physics", "questions": 50, "marks": 200 },
+            { "name": "Chemistry", "questions": 50, "marks": 200 },
+            { "name": "Biology (Botany + Zoology)", "questions": 100, "marks": 400 }
+          ],
+          "totalMarks": 800,
+          "duration": "200 minutes",
+          "totalQuestions": 200,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Offline",
+      "language": ["English", "Hindi", "Gujarati", "Bengali", "Tamil", "Telugu", "Marathi", "Kannada", "Odia", "Assamese", "Urdu", "Punjabi", "Malayalam"],
+      "negativeMarking": "1 mark deducted for each wrong answer (out of 4 marks per question)"
+    },
+    "syllabus": [
+      {
+        "stageName": "NEET UG",
+        "subjects": [
+          {
+            "name": "Physics",
+            "topics": ["Physical World & Measurement", "Kinematics", "Laws of Motion", "Work, Energy & Power", "Motion of System of Particles & Rigid Body", "Gravitation", "Properties of Bulk Matter", "Thermodynamics", "Kinetic Theory of Gases", "Oscillations & Waves", "Electrostatics", "Current Electricity", "Magnetic Effects of Current & Magnetism", "Electromagnetic Induction & AC", "Electromagnetic Waves", "Optics", "Dual Nature of Matter & Radiation", "Atoms & Nuclei", "Electronic Devices"]
+          },
+          {
+            "name": "Chemistry",
+            "topics": ["Some Basic Concepts of Chemistry", "Structure of Atom", "Classification of Elements", "Chemical Bonding", "States of Matter", "Thermodynamics", "Equilibrium", "Redox Reactions", "Hydrogen", "s-Block Elements", "p-Block Elements", "Organic Chemistry Basics", "Hydrocarbons", "Environmental Chemistry", "Solid State", "Solutions", "Electrochemistry", "Chemical Kinetics", "Surface Chemistry", "Coordination Compounds", "Haloalkanes & Haloarenes", "Alcohols, Phenols & Ethers", "Aldehydes, Ketones & Carboxylic Acids", "Amines", "Biomolecules", "Polymers"]
+          },
+          {
+            "name": "Biology",
+            "topics": ["Diversity in Living World", "Structural Organisation in Animals & Plants", "Cell Structure & Function", "Plant Physiology", "Human Physiology", "Reproduction", "Genetics & Evolution", "Biology & Human Welfare", "Biotechnology & Its Applications", "Ecology & Environment"]
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Application Start Date", "date": "2026-02-01", "isConfirmed": true },
+      { "event": "Application End Date", "date": "2026-03-20", "isConfirmed": true },
+      { "event": "Exam Date", "date": "2026-05-04", "isConfirmed": true },
+      { "event": "Result Date", "date": "2026-06-15", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["medical", "mbbs", "bds", "neet", "nta", "12th-pass"]
+  },
+  {
+    "id": "nta-jee-main-2026",
+    "slug": "jee-main",
+    "name": "JEE Main (Joint Entrance Examination Main)",
+    "shortName": "JEE Main",
+    "conductingBody": "NTA",
+    "category": "teaching",
+    "description": "JEE Main is for admission to NITs, IIITs, CFTIs and serves as an eligibility test for JEE Advanced (IIT admission).",
+    "officialWebsite": "https://jeemain.nta.nic.in",
+    "applicationLink": "https://jeemain.nta.nic.in",
+    "applicationStatus": "closed",
+    "eligibility": {
+      "educationRequired": "12th Pass with Physics, Mathematics and one of Chemistry/Biology/Biotechnology/Technical Vocational Subject",
+      "ageLimit": { "min": 0, "max": 0 },
+      "ageRelaxation": {},
+      "attempts": "3 consecutive years",
+      "nationality": "Indian / OCI / PIO / Foreign National"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Paper 1 (B.E./B.Tech)",
+          "subjects": [
+            { "name": "Physics", "questions": 30, "marks": 100 },
+            { "name": "Chemistry", "questions": 30, "marks": 100 },
+            { "name": "Mathematics", "questions": 30, "marks": 100 }
+          ],
+          "totalMarks": 300,
+          "duration": "180 minutes",
+          "totalQuestions": 90,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi", "Assamese", "Bengali", "Gujarati", "Kannada", "Malayalam", "Marathi", "Odia", "Punjabi", "Tamil", "Telugu", "Urdu"],
+      "negativeMarking": "1 mark deducted for each wrong MCQ answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "Paper 1 (B.E./B.Tech)",
+        "subjects": [
+          {
+            "name": "Physics",
+            "topics": ["Physics & Measurement", "Kinematics", "Laws of Motion", "Work, Energy & Power", "Rotational Motion", "Gravitation", "Properties of Solids & Liquids", "Thermodynamics", "Kinetic Theory of Gases", "Oscillations & Waves", "Electrostatics", "Current Electricity", "Magnetic Effects of Current", "Electromagnetic Induction", "Electromagnetic Waves", "Optics", "Dual Nature of Matter & Radiation", "Atoms & Nuclei", "Electronic Devices", "Communication Systems"]
+          },
+          {
+            "name": "Chemistry",
+            "topics": ["Some Basic Concepts in Chemistry", "Atomic Structure", "Chemical Bonding & Molecular Structure", "Chemical Thermodynamics", "Solutions", "Equilibrium", "Redox Reactions & Electrochemistry", "Chemical Kinetics", "Classification of Elements", "Hydrogen", "s-Block Elements", "p-Block Elements", "d & f Block Elements", "Coordination Compounds", "Purification & Characterisation of Organic Compounds", "Hydrocarbons", "Organic Compounds containing Halogens, Oxygen, Nitrogen", "Polymers", "Biomolecules", "Chemistry in Everyday Life", "Environmental Chemistry"]
+          },
+          {
+            "name": "Mathematics",
+            "topics": ["Sets, Relations & Functions", "Complex Numbers", "Matrices & Determinants", "Permutations & Combinations", "Mathematical Induction", "Binomial Theorem", "Sequences & Series", "Limit, Continuity & Differentiability", "Integral Calculus", "Differential Equations", "Coordinate Geometry", "3D Geometry", "Vector Algebra", "Statistics & Probability", "Trigonometry", "Mathematical Reasoning"]
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Session 1 Exam Date", "date": "2026-01-22", "isConfirmed": true },
+      { "event": "Session 1 Result", "date": "2026-02-15", "isConfirmed": true },
+      { "event": "Session 2 Application Start", "date": "2026-02-20", "isConfirmed": true },
+      { "event": "Session 2 Exam Date", "date": "2026-04-05", "isConfirmed": true }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["engineering", "nit", "iit", "jee", "nta", "12th-pass"]
+  },
+  {
+    "id": "upsc-cse-2026",
+    "slug": "upsc-cse",
+    "name": "UPSC Civil Services Examination (CSE)",
+    "shortName": "UPSC CSE",
+    "conductingBody": "UPSC",
+    "category": "upsc",
+    "description": "The Civil Services Examination is conducted for recruitment to Indian Administrative Service (IAS), Indian Foreign Service (IFS), Indian Police Service (IPS) and other Group A & B Central Services.",
+    "officialWebsite": "https://upsc.gov.in",
+    "applicationLink": "https://upsconline.nic.in",
+    "applicationStatus": "active",
+    "eligibility": {
+      "educationRequired": "Bachelor's Degree from a recognized University",
+      "ageLimit": { "min": 21, "max": 32 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD-General": "10 years" },
+      "attempts": "6 for General, 9 for OBC, Unlimited for SC/ST",
+      "nationality": "Indian (for IAS & IPS), Indian/Nepal/Bhutan for others"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Preliminary Exam (Objective)",
+          "subjects": [
+            { "name": "General Studies Paper I", "questions": 100, "marks": 200 },
+            { "name": "General Studies Paper II (CSAT)", "questions": 80, "marks": 200 }
+          ],
+          "totalMarks": 400,
+          "duration": "120 minutes per paper",
+          "totalQuestions": 180,
+          "type": "MCQ"
+        },
+        {
+          "name": "Main Exam (Descriptive)",
+          "subjects": [
+            { "name": "Essay", "questions": 2, "marks": 250 },
+            { "name": "General Studies I", "questions": 20, "marks": 250 },
+            { "name": "General Studies II", "questions": 20, "marks": 250 },
+            { "name": "General Studies III", "questions": 20, "marks": 250 },
+            { "name": "General Studies IV (Ethics)", "questions": 14, "marks": 250 },
+            { "name": "Optional Paper I", "questions": 8, "marks": 250 },
+            { "name": "Optional Paper II", "questions": 8, "marks": 250 }
+          ],
+          "totalMarks": 1750,
+          "duration": "180 minutes per paper",
+          "totalQuestions": 92,
+          "type": "Descriptive"
+        },
+        {
+          "name": "Interview / Personality Test",
+          "subjects": [
+            { "name": "Personality Test", "questions": 0, "marks": 275 }
+          ],
+          "totalMarks": 275,
+          "duration": "30-45 minutes",
+          "totalQuestions": 0,
+          "type": "Interview"
+        }
+      ],
+      "mode": "Both",
+      "language": ["English", "Hindi", "Indian languages listed in 8th Schedule"],
+      "negativeMarking": "1/3rd of marks for each wrong answer in Prelims"
+    },
+    "syllabus": [
+      {
+        "stageName": "Preliminary Exam",
+        "subjects": [
+          {
+            "name": "General Studies Paper I",
+            "topics": ["Current Events of National & International Importance", "History of India & Indian National Movement", "Indian & World Geography", "Indian Polity & Governance", "Economic & Social Development", "General Issues on Environmental Ecology", "General Science"]
+          },
+          {
+            "name": "General Studies Paper II (CSAT)",
+            "topics": ["Comprehension", "Interpersonal Skills", "Logical Reasoning & Analytical Ability", "Decision Making & Problem Solving", "General Mental Ability", "Basic Numeracy", "Data Interpretation"]
+          }
+        ]
+      },
+      {
+        "stageName": "Mains Exam",
+        "subjects": [
+          {
+            "name": "General Studies I",
+            "topics": ["Indian Heritage & Culture", "History & Geography of the World & Society", "Modern Indian History", "World History", "Indian Society", "Social Issues"]
+          },
+          {
+            "name": "General Studies II",
+            "topics": ["Governance", "Constitution", "Polity", "Social Justice", "International Relations"]
+          },
+          {
+            "name": "General Studies III",
+            "topics": ["Technology", "Economic Development", "Biodiversity", "Environment", "Security", "Disaster Management"]
+          },
+          {
+            "name": "General Studies IV (Ethics)",
+            "topics": ["Ethics & Human Interface", "Aptitude & Foundational Values for Civil Service", "Emotional Intelligence", "Public/Civil Service Values", "Probity in Governance", "Case Studies"]
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Date", "date": "2026-02-12", "isConfirmed": true },
+      { "event": "Application Start Date", "date": "2026-02-14", "isConfirmed": true },
+      { "event": "Application End Date", "date": "2026-03-07", "isConfirmed": true },
+      { "event": "Prelims Exam Date", "date": "2026-05-24", "isConfirmed": true },
+      { "event": "Mains Exam Date", "date": "2026-09-18", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["ias", "ips", "ifs", "upsc", "civil-services", "graduate", "group-a"]
+  },
+  {
+    "id": "upsc-nda-2026",
+    "slug": "upsc-nda",
+    "name": "NDA (National Defence Academy) & Naval Academy Examination",
+    "shortName": "NDA",
+    "conductingBody": "UPSC",
+    "category": "defence",
+    "description": "NDA exam is conducted by UPSC for admission to Army, Navy and Air Force wings of National Defence Academy and Indian Naval Academy.",
+    "officialWebsite": "https://upsc.gov.in",
+    "applicationLink": "https://upsconline.nic.in",
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "12th Pass or appearing (Physics & Mathematics for Navy/Air Force)",
+      "ageLimit": { "min": 16, "max": 19 },
+      "ageRelaxation": {},
+      "attempts": "No limit (within age bracket)",
+      "nationality": "Indian (unmarried male/female)"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Written Exam",
+          "subjects": [
+            { "name": "Mathematics", "questions": 120, "marks": 300 },
+            { "name": "General Ability Test", "questions": 150, "marks": 600 }
+          ],
+          "totalMarks": 900,
+          "duration": "150 minutes per paper",
+          "totalQuestions": 270,
+          "type": "MCQ"
+        },
+        {
+          "name": "SSB Interview",
+          "subjects": [
+            { "name": "Intelligence & Personality Test", "questions": 0, "marks": 900 }
+          ],
+          "totalMarks": 900,
+          "duration": "5 days",
+          "totalQuestions": 0,
+          "type": "Interview"
+        }
+      ],
+      "mode": "Offline",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "1/3rd of marks for each wrong answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "Written Exam",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "topics": ["Algebra", "Matrices & Determinants", "Trigonometry", "Analytical Geometry (2D & 3D)", "Differential Calculus", "Integral Calculus", "Vector Algebra", "Statistics & Probability"]
+          },
+          {
+            "name": "General Ability Test",
+            "topics": ["English", "Physics", "Chemistry", "General Science", "History", "Geography", "Current Events"]
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "NDA I Notification", "date": "2026-01-15", "isConfirmed": true },
+      { "event": "NDA I Exam Date", "date": "2026-04-12", "isConfirmed": true },
+      { "event": "NDA II Notification", "date": "2026-06-15", "isConfirmed": false },
+      { "event": "NDA II Exam Date", "date": "2026-09-06", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["army", "navy", "airforce", "nda", "defence", "12th-pass"]
+  },
+  {
+    "id": "rrb-ntpc-2026",
+    "slug": "rrb-ntpc",
+    "name": "RRB NTPC (Non-Technical Popular Categories)",
+    "shortName": "RRB NTPC",
+    "conductingBody": "RRB",
+    "category": "railway",
+    "description": "RRB NTPC is conducted for recruitment to various Non-Technical Popular Categories posts in Indian Railways like Station Master, Goods Guard, Clerk, etc.",
+    "officialWebsite": "https://rrbcdg.gov.in",
+    "applicationLink": null,
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "12th Pass / Graduate (varies by post)",
+      "ageLimit": { "min": 18, "max": 33 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD": "15 years" },
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "CBT 1 (First Stage)",
+          "subjects": [
+            { "name": "Mathematics", "questions": 30, "marks": 30 },
+            { "name": "General Intelligence & Reasoning", "questions": 30, "marks": 30 },
+            { "name": "General Awareness", "questions": 40, "marks": 40 }
+          ],
+          "totalMarks": 100,
+          "duration": "90 minutes",
+          "totalQuestions": 100,
+          "type": "MCQ"
+        },
+        {
+          "name": "CBT 2 (Second Stage)",
+          "subjects": [
+            { "name": "Mathematics", "questions": 35, "marks": 35 },
+            { "name": "General Intelligence & Reasoning", "questions": 35, "marks": 35 },
+            { "name": "General Awareness", "questions": 50, "marks": 50 }
+          ],
+          "totalMarks": 120,
+          "duration": "90 minutes",
+          "totalQuestions": 120,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi", "Urdu", "and other regional languages"],
+      "negativeMarking": "1/3rd of marks for each wrong answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "CBT 1",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "topics": ["Number System", "Decimals", "Fractions", "LCM & HCF", "Ratio & Proportion", "Percentage", "Mensuration", "Time & Work", "Time & Distance", "Simple & Compound Interest", "Profit & Loss", "Elementary Algebra", "Geometry & Trigonometry", "Elementary Statistics"]
+          },
+          {
+            "name": "General Intelligence & Reasoning",
+            "topics": ["Analogies", "Completion of Number & Alphabetical Series", "Coding & Decoding", "Mathematical Operations", "Similarities & Differences", "Relationships", "Analytical Reasoning", "Syllogism", "Jumbling", "Venn Diagrams", "Puzzle", "Data Sufficiency", "Statement-Conclusion", "Statement-Courses of Action", "Decision Making", "Maps", "Interpretation of Graphs"]
+          },
+          {
+            "name": "General Awareness",
+            "topics": ["Current Events", "Indian History", "Indian Polity & Constitution", "Indian Geography", "Indian Economy", "World Geography", "Physics", "Chemistry", "Biology", "Computer Basics", "Sports", "Famous Personalities", "Books & Authors", "Awards & Honours", "Environmental Issues"]
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Expected", "date": "2026-06-01", "isConfirmed": false },
+      { "event": "CBT 1 Expected", "date": "2026-09-15", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["railway", "ntpc", "station-master", "clerk", "rrb", "12th-pass", "graduate"]
+  },
+  {
+    "id": "rrb-group-d-2026",
+    "slug": "rrb-group-d",
+    "name": "RRB Group D Examination",
+    "shortName": "RRB Group D",
+    "conductingBody": "RRB",
+    "category": "railway",
+    "description": "RRB Group D exam is for recruitment to Level 1 posts like Track Maintainer, Helper, Assistant in various technical departments of Indian Railways.",
+    "officialWebsite": "https://rrbcdg.gov.in",
+    "applicationLink": null,
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "10th Pass + ITI or NAC/SCVT certificate",
+      "ageLimit": { "min": 18, "max": 33 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD": "15 years" },
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Computer Based Test",
+          "subjects": [
+            { "name": "Mathematics", "questions": 25, "marks": 25 },
+            { "name": "General Intelligence & Reasoning", "questions": 30, "marks": 30 },
+            { "name": "General Science", "questions": 25, "marks": 25 },
+            { "name": "General Awareness & Current Affairs", "questions": 20, "marks": 20 }
+          ],
+          "totalMarks": 100,
+          "duration": "90 minutes",
+          "totalQuestions": 100,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi", "and other regional languages"],
+      "negativeMarking": "1/3rd of marks for each wrong answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "Computer Based Test",
+        "subjects": [
+          { "name": "Mathematics", "topics": ["Number System", "BODMAS", "Decimals", "Fractions", "LCM & HCF", "Ratio & Proportion", "Percentage", "Mensuration", "Time & Work", "Time & Distance", "Simple & Compound Interest", "Profit & Loss", "Algebra", "Geometry", "Trigonometry", "Statistics"] },
+          { "name": "General Intelligence & Reasoning", "topics": ["Analogies", "Alphabetical & Number Series", "Coding & Decoding", "Mathematical Operations", "Relationships", "Syllogism", "Jumbling", "Venn Diagrams", "Data Interpretation", "Statement & Conclusion", "Decision Making"] },
+          { "name": "General Science", "topics": ["Physics (up to 10th standard)", "Chemistry (up to 10th standard)", "Life Sciences (up to 10th standard)"] },
+          { "name": "General Awareness & Current Affairs", "topics": ["Current Affairs", "Science & Technology", "Sports", "Culture", "Personalities", "Economics", "Polity", "Indian Geography"] }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Expected", "date": "2026-07-01", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["railway", "group-d", "track-maintainer", "helper", "rrb", "10th-pass"]
+  },
+  {
+    "id": "ibps-po-2026",
+    "slug": "ibps-po",
+    "name": "IBPS PO (Probationary Officer) Examination",
+    "shortName": "IBPS PO",
+    "conductingBody": "IBPS",
+    "category": "banking",
+    "description": "IBPS PO exam is conducted for recruitment of Probationary Officers / Management Trainees in participating public sector banks.",
+    "officialWebsite": "https://ibps.in",
+    "applicationLink": "https://ibps.in",
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "Bachelor's Degree from a recognized University",
+      "ageLimit": { "min": 20, "max": 30 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD": "10 years" },
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Preliminary Exam",
+          "subjects": [
+            { "name": "English Language", "questions": 30, "marks": 30 },
+            { "name": "Quantitative Aptitude", "questions": 35, "marks": 35 },
+            { "name": "Reasoning Ability", "questions": 35, "marks": 35 }
+          ],
+          "totalMarks": 100,
+          "duration": "60 minutes",
+          "totalQuestions": 100,
+          "type": "MCQ"
+        },
+        {
+          "name": "Mains Exam",
+          "subjects": [
+            { "name": "Reasoning & Computer Aptitude", "questions": 45, "marks": 60 },
+            { "name": "General/Economy/Banking Awareness", "questions": 40, "marks": 40 },
+            { "name": "English Language", "questions": 35, "marks": 40 },
+            { "name": "Data Analysis & Interpretation", "questions": 35, "marks": 60 }
+          ],
+          "totalMarks": 200,
+          "duration": "180 minutes",
+          "totalQuestions": 155,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "0.25 marks for each wrong answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "Preliminary Exam",
+        "subjects": [
+          { "name": "English Language", "topics": ["Reading Comprehension", "Cloze Test", "Para Jumbles", "Fill in the Blanks", "Error Spotting", "Sentence Improvement", "Word Association"] },
+          { "name": "Quantitative Aptitude", "topics": ["Number Series", "Data Interpretation", "Simplification/Approximation", "Quadratic Equations", "Percentage", "Ratio & Proportion", "Profit & Loss", "Simple & Compound Interest", "Time & Work", "Time, Speed & Distance", "Mensuration", "Probability"] },
+          { "name": "Reasoning Ability", "topics": ["Puzzles", "Seating Arrangement", "Syllogism", "Coding-Decoding", "Inequality", "Blood Relations", "Direction & Distance", "Order & Ranking", "Alphanumeric Series", "Data Sufficiency"] }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Expected", "date": "2026-08-01", "isConfirmed": false },
+      { "event": "Prelims Expected", "date": "2026-10-15", "isConfirmed": false },
+      { "event": "Mains Expected", "date": "2026-11-30", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["banking", "po", "bank-po", "ibps", "graduate", "probationary-officer"]
+  },
+  {
+    "id": "ibps-clerk-2026",
+    "slug": "ibps-clerk",
+    "name": "IBPS Clerk Examination",
+    "shortName": "IBPS Clerk",
+    "conductingBody": "IBPS",
+    "category": "banking",
+    "description": "IBPS Clerk exam is conducted for recruitment of Clerical cadre posts in participating public sector banks across India.",
+    "officialWebsite": "https://ibps.in",
+    "applicationLink": null,
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "Bachelor's Degree from a recognized University",
+      "ageLimit": { "min": 20, "max": 28 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD": "10 years" },
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Preliminary Exam",
+          "subjects": [
+            { "name": "English Language", "questions": 30, "marks": 30 },
+            { "name": "Numerical Ability", "questions": 35, "marks": 35 },
+            { "name": "Reasoning Ability", "questions": 35, "marks": 35 }
+          ],
+          "totalMarks": 100,
+          "duration": "60 minutes",
+          "totalQuestions": 100,
+          "type": "MCQ"
+        },
+        {
+          "name": "Mains Exam",
+          "subjects": [
+            { "name": "General/Financial Awareness", "questions": 50, "marks": 50 },
+            { "name": "English Language", "questions": 40, "marks": 40 },
+            { "name": "Reasoning Ability & Computer Aptitude", "questions": 50, "marks": 60 },
+            { "name": "Quantitative Aptitude", "questions": 50, "marks": 50 }
+          ],
+          "totalMarks": 200,
+          "duration": "160 minutes",
+          "totalQuestions": 190,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "0.25 marks for each wrong answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "Preliminary Exam",
+        "subjects": [
+          { "name": "English Language", "topics": ["Reading Comprehension", "Cloze Test", "Error Spotting", "Fill in the Blanks", "Para Jumbles"] },
+          { "name": "Numerical Ability", "topics": ["Number Series", "Simplification", "Data Interpretation", "Percentage", "Ratio", "Profit & Loss", "Time & Work", "Time, Speed & Distance"] },
+          { "name": "Reasoning Ability", "topics": ["Puzzles", "Seating Arrangement", "Syllogism", "Coding-Decoding", "Inequality", "Blood Relations", "Direction Sense"] }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Expected", "date": "2026-07-15", "isConfirmed": false },
+      { "event": "Prelims Expected", "date": "2026-09-20", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["banking", "clerk", "ibps", "graduate"]
+  },
+  {
+    "id": "upsc-cds-2026",
+    "slug": "upsc-cds",
+    "name": "CDS (Combined Defence Services) Examination",
+    "shortName": "UPSC CDS",
+    "conductingBody": "UPSC",
+    "category": "defence",
+    "description": "CDS exam is conducted by UPSC for admission to Indian Military Academy (IMA), Indian Naval Academy (INA), Air Force Academy (AFA) and Officers Training Academy (OTA).",
+    "officialWebsite": "https://upsc.gov.in",
+    "applicationLink": "https://upsconline.nic.in",
+    "applicationStatus": "active",
+    "eligibility": {
+      "educationRequired": "Graduate from a recognized University (Engineering for Navy/Air Force tech entries)",
+      "ageLimit": { "min": 19, "max": 25 },
+      "ageRelaxation": {},
+      "attempts": "No limit (within age bracket)",
+      "nationality": "Indian (unmarried)"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Written Examination",
+          "subjects": [
+            { "name": "English", "questions": 120, "marks": 100 },
+            { "name": "General Knowledge", "questions": 120, "marks": 100 },
+            { "name": "Elementary Mathematics", "questions": 100, "marks": 100 }
+          ],
+          "totalMarks": 300,
+          "duration": "120 minutes per paper",
+          "totalQuestions": 340,
+          "type": "MCQ"
+        },
+        {
+          "name": "SSB Interview",
+          "subjects": [
+            { "name": "Intelligence & Personality Test", "questions": 0, "marks": 300 }
+          ],
+          "totalMarks": 300,
+          "duration": "5 days",
+          "totalQuestions": 0,
+          "type": "Interview"
+        }
+      ],
+      "mode": "Offline",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "1/3rd of marks for each wrong answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "Written Examination",
+        "subjects": [
+          { "name": "English", "topics": ["Comprehension", "Grammar & Usage", "Vocabulary", "Spotting Errors", "Sentence Improvement", "Ordering of Sentences", "Antonyms & Synonyms", "Idioms & Phrases", "Selecting Words"] },
+          { "name": "General Knowledge", "topics": ["Current Events", "History of India", "Geography of India & the World", "Indian Polity", "Economics", "Physics", "Chemistry", "Biology", "Defence-related topics"] },
+          { "name": "Elementary Mathematics", "topics": ["Arithmetic", "Algebra", "Trigonometry", "Geometry", "Mensuration", "Statistics"] }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "CDS I Notification", "date": "2026-01-10", "isConfirmed": true },
+      { "event": "CDS I Exam Date", "date": "2026-04-19", "isConfirmed": true },
+      { "event": "CDS II Notification", "date": "2026-06-20", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["defence", "army", "navy", "airforce", "cds", "upsc", "graduate"]
+  },
+  {
+    "id": "nta-ugc-net-2026",
+    "slug": "ugc-net",
+    "name": "UGC NET (National Eligibility Test)",
+    "shortName": "UGC NET",
+    "conductingBody": "NTA",
+    "category": "teaching",
+    "description": "UGC NET is conducted to determine eligibility for the post of Assistant Professor and for the award of Junior Research Fellowship (JRF) in Indian universities and colleges.",
+    "officialWebsite": "https://ugcnet.nta.ac.in",
+    "applicationLink": "https://ugcnet.nta.ac.in",
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "Master's Degree with minimum 55% marks (50% for SC/ST/OBC/PwD)",
+      "ageLimit": { "min": 0, "max": 0 },
+      "ageRelaxation": { "JRF": "30 years (General), 35 years (SC/ST/OBC/PwD)" },
+      "attempts": "No limit (for Assistant Professor); age limit for JRF",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Computer Based Test",
+          "subjects": [
+            { "name": "Paper I (General Aptitude)", "questions": 50, "marks": 100 },
+            { "name": "Paper II (Subject Specific)", "questions": 100, "marks": 200 }
+          ],
+          "totalMarks": 300,
+          "duration": "180 minutes (combined)",
+          "totalQuestions": 150,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "No negative marking"
+    },
+    "syllabus": [
+      {
+        "stageName": "Computer Based Test",
+        "subjects": [
+          {
+            "name": "Paper I (General Aptitude)",
+            "topics": ["Teaching Aptitude", "Research Aptitude", "Comprehension", "Communication", "Mathematical Reasoning & Aptitude", "Logical Reasoning", "Data Interpretation", "Information & Communication Technology", "People, Development & Environment", "Higher Education System"]
+          },
+          {
+            "name": "Paper II (Subject Specific)",
+            "topics": ["Detailed syllabus depends on the chosen subject out of 83 subjects", "Available subjects include: Commerce, Economics, Political Science, History, English, Hindi, Computer Science, Management, Education, Sociology, Psychology, etc."]
+          }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Expected", "date": "2026-03-25", "isConfirmed": false },
+      { "event": "Exam Date Expected", "date": "2026-06-15", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["teaching", "professor", "jrf", "ugc", "net", "nta", "postgraduate"]
+  },
+  {
+    "id": "sbi-po-2026",
+    "slug": "sbi-po",
+    "name": "SBI PO (Probationary Officer) Examination",
+    "shortName": "SBI PO",
+    "conductingBody": "OTHER",
+    "category": "banking",
+    "description": "SBI PO exam is conducted by the State Bank of India for recruitment of Probationary Officers in SBI branches across India.",
+    "officialWebsite": "https://sbi.co.in/careers",
+    "applicationLink": "https://sbi.co.in/careers",
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "Bachelor's Degree from a recognized University",
+      "ageLimit": { "min": 21, "max": 30 },
+      "ageRelaxation": { "SC/ST": "5 years", "OBC": "3 years", "PwD": "10 years" },
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Preliminary Exam",
+          "subjects": [
+            { "name": "English Language", "questions": 30, "marks": 30 },
+            { "name": "Quantitative Aptitude", "questions": 35, "marks": 35 },
+            { "name": "Reasoning Ability", "questions": 35, "marks": 35 }
+          ],
+          "totalMarks": 100,
+          "duration": "60 minutes",
+          "totalQuestions": 100,
+          "type": "MCQ"
+        },
+        {
+          "name": "Mains Exam",
+          "subjects": [
+            { "name": "Reasoning & Computer Aptitude", "questions": 45, "marks": 60 },
+            { "name": "Data Analysis & Interpretation", "questions": 35, "marks": 60 },
+            { "name": "General/Economy/Banking Awareness", "questions": 40, "marks": 40 },
+            { "name": "English Language", "questions": 35, "marks": 40 }
+          ],
+          "totalMarks": 200,
+          "duration": "180 minutes",
+          "totalQuestions": 155,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi"],
+      "negativeMarking": "0.25 marks for each wrong answer"
+    },
+    "syllabus": [
+      {
+        "stageName": "Preliminary Exam",
+        "subjects": [
+          { "name": "English Language", "topics": ["Reading Comprehension", "Cloze Test", "Para Jumbles", "Error Spotting", "Fill in the Blanks"] },
+          { "name": "Quantitative Aptitude", "topics": ["Number Series", "Data Interpretation", "Simplification", "Quadratic Equations", "Percentage", "Ratio", "Profit & Loss", "Time & Work", "Mensuration"] },
+          { "name": "Reasoning Ability", "topics": ["Puzzles", "Seating Arrangement", "Syllogism", "Coding-Decoding", "Inequality", "Blood Relations", "Direction Sense"] }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Expected", "date": "2026-09-01", "isConfirmed": false },
+      { "event": "Prelims Expected", "date": "2026-11-15", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["banking", "sbi", "po", "probationary-officer", "graduate"]
+  },
+  {
+    "id": "nta-cuet-ug-2026",
+    "slug": "cuet-ug",
+    "name": "CUET UG (Common University Entrance Test)",
+    "shortName": "CUET UG",
+    "conductingBody": "NTA",
+    "category": "teaching",
+    "description": "CUET UG is conducted by NTA for admission to undergraduate programs in Central Universities, State Universities, Deemed Universities and Private Universities across India.",
+    "officialWebsite": "https://cuet.nta.nic.in",
+    "applicationLink": "https://cuet.nta.nic.in",
+    "applicationStatus": "active",
+    "eligibility": {
+      "educationRequired": "12th Pass from a recognized Board",
+      "ageLimit": { "min": 0, "max": 0 },
+      "ageRelaxation": {},
+      "attempts": "3 consecutive years",
+      "nationality": "Indian / OCI / NRI"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "CUET UG Exam",
+          "subjects": [
+            { "name": "Section IA - Language (English/Hindi)", "questions": 50, "marks": 200 },
+            { "name": "Section II - Domain Specific Subjects", "questions": 50, "marks": 200 },
+            { "name": "Section III - General Test", "questions": 75, "marks": 300 }
+          ],
+          "totalMarks": 700,
+          "duration": "45 minutes per section",
+          "totalQuestions": 175,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi", "and 11 other languages"],
+      "negativeMarking": "1 mark deducted for each wrong answer (out of 5 marks per question)"
+    },
+    "syllabus": [
+      {
+        "stageName": "CUET UG",
+        "subjects": [
+          { "name": "Language Section", "topics": ["Reading Comprehension", "Grammar", "Vocabulary", "Rearrangement", "Error Correction"] },
+          { "name": "Domain Subjects", "topics": ["Based on Class 12 NCERT syllabus for the chosen subject", "Available: Physics, Chemistry, Biology, Mathematics, Accountancy, Business Studies, Economics, History, Political Science, Geography, Psychology, Sociology, Computer Science, etc."] },
+          { "name": "General Test", "topics": ["General Knowledge", "Current Affairs", "General Mental Ability", "Numerical Ability", "Quantitative Reasoning", "Logical & Analytical Reasoning"] }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Application Start Date", "date": "2026-02-15", "isConfirmed": true },
+      { "event": "Application End Date", "date": "2026-03-25", "isConfirmed": true },
+      { "event": "Exam Date", "date": "2026-05-15", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["university", "undergraduate", "cuet", "nta", "12th-pass", "central-university"]
+  },
+  {
+    "id": "afcat-2026",
+    "slug": "afcat",
+    "name": "AFCAT (Air Force Common Admission Test)",
+    "shortName": "AFCAT",
+    "conductingBody": "MoD",
+    "category": "defence",
+    "description": "AFCAT is conducted by the Indian Air Force for recruitment to various branches as Commissioned Officers including Flying, Technical, and Ground Duty branches.",
+    "officialWebsite": "https://afcat.cdac.in",
+    "applicationLink": "https://afcat.cdac.in",
+    "applicationStatus": "closed",
+    "eligibility": {
+      "educationRequired": "Graduate with 60% in relevant stream (Engineering for Technical branch)",
+      "ageLimit": { "min": 20, "max": 26 },
+      "ageRelaxation": {},
+      "attempts": "No limit (within age bracket)",
+      "nationality": "Indian (unmarried for Flying branch)"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "AFCAT Written Exam",
+          "subjects": [
+            { "name": "General Awareness", "questions": 25, "marks": 75 },
+            { "name": "Verbal Ability in English", "questions": 25, "marks": 75 },
+            { "name": "Numerical Ability", "questions": 18, "marks": 54 },
+            { "name": "Reasoning & Military Aptitude", "questions": 32, "marks": 96 }
+          ],
+          "totalMarks": 300,
+          "duration": "120 minutes",
+          "totalQuestions": 100,
+          "type": "MCQ"
+        },
+        {
+          "name": "AFSB Interview",
+          "subjects": [
+            { "name": "Stage I (Screening)", "questions": 0, "marks": 0 },
+            { "name": "Stage II (Psychological, GTO, Interview)", "questions": 0, "marks": 0 }
+          ],
+          "totalMarks": 0,
+          "duration": "5 days",
+          "totalQuestions": 0,
+          "type": "Interview"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English"],
+      "negativeMarking": "1 mark deducted for each wrong answer (out of 3 marks per question)"
+    },
+    "syllabus": [
+      {
+        "stageName": "AFCAT Written Exam",
+        "subjects": [
+          { "name": "General Awareness", "topics": ["History", "Geography", "Civics", "Politics", "Current Affairs", "Environment", "Basic Science", "Defence", "Art, Culture & Sport"] },
+          { "name": "Verbal Ability", "topics": ["Comprehension", "Error Detection", "Sentence Completion", "Synonyms", "Antonyms", "Testing Vocabulary"] },
+          { "name": "Numerical Ability", "topics": ["Decimal & Fraction", "Ratio & Proportion", "Simple Interest", "Profit & Loss", "Percentage", "Average", "Time, Speed & Distance"] },
+          { "name": "Reasoning & Military Aptitude", "topics": ["Verbal Skills & Spatial Ability", "Sequence & Series", "Coding & Decoding", "Blood Relations", "Direction Sense", "Figure Classification", "Dot Situation Analysis"] }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "AFCAT 1/2026 Exam", "date": "2026-02-22", "isConfirmed": true },
+      { "event": "AFCAT 2/2026 Notification", "date": "2026-06-01", "isConfirmed": false },
+      { "event": "AFCAT 2/2026 Exam", "date": "2026-08-23", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["airforce", "afcat", "defence", "flying", "technical", "graduate"]
+  },
+  {
+    "id": "ctet-2026",
+    "slug": "ctet",
+    "name": "CTET (Central Teacher Eligibility Test)",
+    "shortName": "CTET",
+    "conductingBody": "OTHER",
+    "category": "teaching",
+    "description": "CTET is conducted by CBSE to certify the eligibility of candidates for appointment as teachers in Central Government schools (KVS, NVS, etc.) for Classes I-VIII.",
+    "officialWebsite": "https://ctet.nic.in",
+    "applicationLink": "https://ctet.nic.in",
+    "applicationStatus": "upcoming",
+    "eligibility": {
+      "educationRequired": "Graduation with D.El.Ed/B.Ed (Paper I: Class I-V, Paper II: Class VI-VIII)",
+      "ageLimit": { "min": 18, "max": 0 },
+      "ageRelaxation": {},
+      "attempts": "No limit",
+      "nationality": "Indian"
+    },
+    "examPattern": {
+      "stages": [
+        {
+          "name": "Paper I (Class I-V)",
+          "subjects": [
+            { "name": "Child Development & Pedagogy", "questions": 30, "marks": 30 },
+            { "name": "Language I", "questions": 30, "marks": 30 },
+            { "name": "Language II", "questions": 30, "marks": 30 },
+            { "name": "Mathematics", "questions": 30, "marks": 30 },
+            { "name": "Environmental Studies", "questions": 30, "marks": 30 }
+          ],
+          "totalMarks": 150,
+          "duration": "150 minutes",
+          "totalQuestions": 150,
+          "type": "MCQ"
+        },
+        {
+          "name": "Paper II (Class VI-VIII)",
+          "subjects": [
+            { "name": "Child Development & Pedagogy", "questions": 30, "marks": 30 },
+            { "name": "Language I", "questions": 30, "marks": 30 },
+            { "name": "Language II", "questions": 30, "marks": 30 },
+            { "name": "Mathematics/Science OR Social Studies", "questions": 60, "marks": 60 }
+          ],
+          "totalMarks": 150,
+          "duration": "150 minutes",
+          "totalQuestions": 150,
+          "type": "MCQ"
+        }
+      ],
+      "mode": "Online",
+      "language": ["English", "Hindi", "and 18 other languages"],
+      "negativeMarking": "No negative marking"
+    },
+    "syllabus": [
+      {
+        "stageName": "Paper I (Class I-V)",
+        "subjects": [
+          { "name": "Child Development & Pedagogy", "topics": ["Development of Children", "Concept of Inclusive Education", "Learning & Pedagogy", "Understanding Special Needs Children", "Learning Disabilities", "Child-Centred & Progressive Education"] },
+          { "name": "Mathematics", "topics": ["Geometry", "Shapes & Spatial Understanding", "Numbers", "Addition & Subtraction", "Multiplication & Division", "Measurement", "Weight", "Time", "Volume", "Data Handling", "Patterns", "Money", "Pedagogical Issues"] },
+          { "name": "Environmental Studies", "topics": ["Family & Friends", "Food", "Shelter", "Water", "Travel", "Things We Make & Do", "Pedagogical Issues in EVS"] }
+        ]
+      }
+    ],
+    "importantDates": [
+      { "event": "Notification Expected", "date": "2026-05-15", "isConfirmed": false },
+      { "event": "Exam Date Expected", "date": "2026-07-20", "isConfirmed": false }
+    ],
+    "lastUpdated": "2026-03-14",
+    "year": 2026,
+    "tags": ["teaching", "ctet", "teacher", "kvs", "nvs", "primary", "elementary"]
+  }
+]
